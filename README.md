@@ -1,4 +1,4 @@
-# Project Title
+# Frontend task
 
 ![Project Screenshot](screenshot.png)
 
